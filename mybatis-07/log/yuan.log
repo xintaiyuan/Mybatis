@@ -1,0 +1,844 @@
+[DEBUG][21-03-02][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-03-02][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-03-02][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-03-02][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-03-02][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-03-02][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-03-02][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-03-02][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 1375995437.
+[DEBUG][21-03-02][com.yuan.dao.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog(id, title, author, create_time, views) values (?, ?, ?, ?, ?) 
+[DEBUG][21-03-02][com.yuan.dao.BlogMapper.addBlog]==> Parameters: e79fd5cf803544989ce31a7ac3b4eecb(String), Mybatis(String), 狂神说(String), 2021-03-02 16:16:38.767(Timestamp), 9999(Integer)
+[DEBUG][21-03-02][com.yuan.dao.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][21-03-02][com.yuan.dao.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog(id, title, author, create_time, views) values (?, ?, ?, ?, ?) 
+[DEBUG][21-03-02][com.yuan.dao.BlogMapper.addBlog]==> Parameters: a377239394e54ff8863345480fa34792(String), Java(String), 狂神说(String), 2021-03-02 16:16:38.767(Timestamp), 9999(Integer)
+[DEBUG][21-03-02][com.yuan.dao.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][21-03-02][com.yuan.dao.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog(id, title, author, create_time, views) values (?, ?, ?, ?, ?) 
+[DEBUG][21-03-02][com.yuan.dao.BlogMapper.addBlog]==> Parameters: 6fd3451a33764da09c0156ad34b07741(String), Spring(String), 狂神说(String), 2021-03-02 16:16:38.767(Timestamp), 9999(Integer)
+[DEBUG][21-03-02][com.yuan.dao.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][21-03-02][com.yuan.dao.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog(id, title, author, create_time, views) values (?, ?, ?, ?, ?) 
+[DEBUG][21-03-02][com.yuan.dao.BlogMapper.addBlog]==> Parameters: a11b6dde03e748bb9f578eb13f99928e(String), 微服务(String), 狂神说(String), 2021-03-02 16:16:38.767(Timestamp), 9999(Integer)
+[DEBUG][21-03-02][com.yuan.dao.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][21-03-02][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@5204062d]
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]Returned connection 1375995437 to pool.
+[DEBUG][21-03-02][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-03-02][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-03-02][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-03-02][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 1375995437.
+[DEBUG][21-03-02][com.yuan.dao.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog(id, title, author, create_time, views) values (?, ?, ?, ?, ?) 
+[DEBUG][21-03-02][com.yuan.dao.BlogMapper.addBlog]==> Parameters: 540333fdb57440a387792e8015dc2de1(String), Mybatis(String), 狂神说(String), 2021-03-02 16:20:54.34(Timestamp), 9999(Integer)
+[DEBUG][21-03-02][com.yuan.dao.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][21-03-02][com.yuan.dao.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog(id, title, author, create_time, views) values (?, ?, ?, ?, ?) 
+[DEBUG][21-03-02][com.yuan.dao.BlogMapper.addBlog]==> Parameters: 70da18eb649a4683b3b5d34cf02e2be1(String), Java(String), 狂神说(String), 2021-03-02 16:20:54.34(Timestamp), 9999(Integer)
+[DEBUG][21-03-02][com.yuan.dao.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][21-03-02][com.yuan.dao.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog(id, title, author, create_time, views) values (?, ?, ?, ?, ?) 
+[DEBUG][21-03-02][com.yuan.dao.BlogMapper.addBlog]==> Parameters: 446f4ad62a094428b956ad77df7a6fb1(String), Spring(String), 狂神说(String), 2021-03-02 16:20:54.34(Timestamp), 9999(Integer)
+[DEBUG][21-03-02][com.yuan.dao.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][21-03-02][com.yuan.dao.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog(id, title, author, create_time, views) values (?, ?, ?, ?, ?) 
+[DEBUG][21-03-02][com.yuan.dao.BlogMapper.addBlog]==> Parameters: 90244d389dc64c749a2dd1b9eb7b869a(String), 微服务(String), 狂神说(String), 2021-03-02 16:20:54.34(Timestamp), 9999(Integer)
+[DEBUG][21-03-02][com.yuan.dao.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][21-03-02][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@5204062d]
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]Returned connection 1375995437 to pool.
+[DEBUG][21-03-02][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-03-02][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 398110318.
+[DEBUG][21-03-02][com.yuan.dao.BlogMapper.queryBlogIF]==>  Preparing: select * from mybatis.blog where 1=1 
+[DEBUG][21-03-02][com.yuan.dao.BlogMapper.queryBlogIF]==> Parameters: 
+[DEBUG][21-03-02][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-03-02][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 670971910.
+[DEBUG][21-03-02][com.yuan.dao.BlogMapper.queryBlogIF]==>  Preparing: select * from mybatis.blog where 1=1 
+[DEBUG][21-03-02][com.yuan.dao.BlogMapper.queryBlogIF]==> Parameters: 
+[DEBUG][21-03-02][com.yuan.dao.BlogMapper.queryBlogIF]<==      Total: 4
+[DEBUG][21-03-02][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@27fe3806]
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]Returned connection 670971910 to pool.
+[DEBUG][21-03-02][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-03-02][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VFS
+[DEBUG][21-03-02][org.apache.ibatis.io.JBoss6VFS]JBoss 6 VFS API is not available in this environment.
+[DEBUG][21-03-02][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VirtualFile
+[DEBUG][21-03-02][org.apache.ibatis.io.VFS]VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+[DEBUG][21-03-02][org.apache.ibatis.io.VFS]Using VFS adapter org.apache.ibatis.io.DefaultVFS
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Reader entry: Blog.class
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Listing file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo/Blog.class
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo/Blog.class
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   4 v
+[DEBUG][21-03-02][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.yuan.pojo.Blog matches criteria [is assignable to Object]
+[DEBUG][21-03-02][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 1909546776.
+[DEBUG][21-03-02][com.yuan.dao.BlogMapper.queryBlogIF]==>  Preparing: select * from mybatis.blog where 1=1 
+[DEBUG][21-03-02][com.yuan.dao.BlogMapper.queryBlogIF]==> Parameters: 
+[DEBUG][21-03-02][com.yuan.dao.BlogMapper.queryBlogIF]<==      Total: 4
+[DEBUG][21-03-02][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@71d15f18]
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]Returned connection 1909546776 to pool.
+[DEBUG][21-03-02][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-03-02][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VFS
+[DEBUG][21-03-02][org.apache.ibatis.io.JBoss6VFS]JBoss 6 VFS API is not available in this environment.
+[DEBUG][21-03-02][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VirtualFile
+[DEBUG][21-03-02][org.apache.ibatis.io.VFS]VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+[DEBUG][21-03-02][org.apache.ibatis.io.VFS]Using VFS adapter org.apache.ibatis.io.DefaultVFS
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Reader entry: Blog.class
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Listing file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo/Blog.class
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo/Blog.class
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   4 v
+[DEBUG][21-03-02][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.yuan.pojo.Blog matches criteria [is assignable to Object]
+[DEBUG][21-03-02][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 1909546776.
+[DEBUG][21-03-02][com.yuan.dao.BlogMapper.queryBlogIF]==>  Preparing: select * from mybatis.blog where 1=1 and title = ? 
+[DEBUG][21-03-02][com.yuan.dao.BlogMapper.queryBlogIF]==> Parameters: Java(String)
+[DEBUG][21-03-02][com.yuan.dao.BlogMapper.queryBlogIF]<==      Total: 1
+[DEBUG][21-03-02][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@71d15f18]
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]Returned connection 1909546776 to pool.
+[DEBUG][21-03-02][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-03-02][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VFS
+[DEBUG][21-03-02][org.apache.ibatis.io.JBoss6VFS]JBoss 6 VFS API is not available in this environment.
+[DEBUG][21-03-02][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VirtualFile
+[DEBUG][21-03-02][org.apache.ibatis.io.VFS]VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+[DEBUG][21-03-02][org.apache.ibatis.io.VFS]Using VFS adapter org.apache.ibatis.io.DefaultVFS
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Reader entry: Blog.class
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Listing file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo/Blog.class
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo/Blog.class
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   4 v
+[DEBUG][21-03-02][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.yuan.pojo.Blog matches criteria [is assignable to Object]
+[DEBUG][21-03-02][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 230528013.
+[DEBUG][21-03-02][com.yuan.dao.BlogMapper.queryBlogIF]==>  Preparing: select * from mybatis.blog where 1=1 and title = ? and author = ? 
+[DEBUG][21-03-02][com.yuan.dao.BlogMapper.queryBlogIF]==> Parameters: Java(String), 狂神说(String)
+[DEBUG][21-03-02][com.yuan.dao.BlogMapper.queryBlogIF]<==      Total: 1
+[DEBUG][21-03-02][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@dbd940d]
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]Returned connection 230528013 to pool.
+[DEBUG][21-03-02][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-03-02][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VFS
+[DEBUG][21-03-02][org.apache.ibatis.io.JBoss6VFS]JBoss 6 VFS API is not available in this environment.
+[DEBUG][21-03-02][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VirtualFile
+[DEBUG][21-03-02][org.apache.ibatis.io.VFS]VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+[DEBUG][21-03-02][org.apache.ibatis.io.VFS]Using VFS adapter org.apache.ibatis.io.DefaultVFS
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Reader entry: Blog.class
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Listing file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo/Blog.class
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo/Blog.class
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   4 v
+[DEBUG][21-03-02][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.yuan.pojo.Blog matches criteria [is assignable to Object]
+[DEBUG][21-03-02][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 1909546776.
+[DEBUG][21-03-02][com.yuan.dao.BlogMapper.queryBlogIF]==>  Preparing: select * from mybatis.blog where 1=1 and author = ? 
+[DEBUG][21-03-02][com.yuan.dao.BlogMapper.queryBlogIF]==> Parameters: 狂神说(String)
+[DEBUG][21-03-02][com.yuan.dao.BlogMapper.queryBlogIF]<==      Total: 4
+[DEBUG][21-03-02][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@71d15f18]
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]Returned connection 1909546776 to pool.
+[DEBUG][21-03-02][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-03-02][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VFS
+[DEBUG][21-03-02][org.apache.ibatis.io.JBoss6VFS]JBoss 6 VFS API is not available in this environment.
+[DEBUG][21-03-02][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VirtualFile
+[DEBUG][21-03-02][org.apache.ibatis.io.VFS]VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+[DEBUG][21-03-02][org.apache.ibatis.io.VFS]Using VFS adapter org.apache.ibatis.io.DefaultVFS
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Reader entry: Blog.class
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Listing file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo/Blog.class
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo/Blog.class
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   4 v
+[DEBUG][21-03-02][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.yuan.pojo.Blog matches criteria [is assignable to Object]
+[DEBUG][21-03-02][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 1909546776.
+[DEBUG][21-03-02][com.yuan.dao.BlogMapper.queryBlogIF]==>  Preparing: select * from mybatis.blog where 1=1 title = ? 
+[DEBUG][21-03-02][com.yuan.dao.BlogMapper.queryBlogIF]==> Parameters: Java(String)
+[DEBUG][21-03-02][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-03-02][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VFS
+[DEBUG][21-03-02][org.apache.ibatis.io.JBoss6VFS]JBoss 6 VFS API is not available in this environment.
+[DEBUG][21-03-02][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VirtualFile
+[DEBUG][21-03-02][org.apache.ibatis.io.VFS]VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+[DEBUG][21-03-02][org.apache.ibatis.io.VFS]Using VFS adapter org.apache.ibatis.io.DefaultVFS
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Reader entry: Blog.class
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Listing file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo/Blog.class
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo/Blog.class
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   4 v
+[DEBUG][21-03-02][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.yuan.pojo.Blog matches criteria [is assignable to Object]
+[DEBUG][21-03-02][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 1909546776.
+[DEBUG][21-03-02][com.yuan.dao.BlogMapper.queryBlogIF]==>  Preparing: select * from mybatis.blog where 1=1 and title = ? 
+[DEBUG][21-03-02][com.yuan.dao.BlogMapper.queryBlogIF]==> Parameters: Java(String)
+[DEBUG][21-03-02][com.yuan.dao.BlogMapper.queryBlogIF]<==      Total: 1
+[DEBUG][21-03-02][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@71d15f18]
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]Returned connection 1909546776 to pool.
+[DEBUG][21-03-02][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-03-02][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VFS
+[DEBUG][21-03-02][org.apache.ibatis.io.JBoss6VFS]JBoss 6 VFS API is not available in this environment.
+[DEBUG][21-03-02][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VirtualFile
+[DEBUG][21-03-02][org.apache.ibatis.io.VFS]VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+[DEBUG][21-03-02][org.apache.ibatis.io.VFS]Using VFS adapter org.apache.ibatis.io.DefaultVFS
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Reader entry: Blog.class
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Listing file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo/Blog.class
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo/Blog.class
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   4 v
+[DEBUG][21-03-02][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.yuan.pojo.Blog matches criteria [is assignable to Object]
+[DEBUG][21-03-02][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 1909546776.
+[DEBUG][21-03-02][com.yuan.dao.BlogMapper.queryBlogIF]==>  Preparing: select * from mybatis.blog where and title = ? 
+[DEBUG][21-03-02][com.yuan.dao.BlogMapper.queryBlogIF]==> Parameters: Java(String)
+[DEBUG][21-03-02][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-03-02][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VFS
+[DEBUG][21-03-02][org.apache.ibatis.io.JBoss6VFS]JBoss 6 VFS API is not available in this environment.
+[DEBUG][21-03-02][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VirtualFile
+[DEBUG][21-03-02][org.apache.ibatis.io.VFS]VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+[DEBUG][21-03-02][org.apache.ibatis.io.VFS]Using VFS adapter org.apache.ibatis.io.DefaultVFS
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Reader entry: Blog.class
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Listing file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo/Blog.class
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo/Blog.class
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   4 v
+[DEBUG][21-03-02][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.yuan.pojo.Blog matches criteria [is assignable to Object]
+[DEBUG][21-03-02][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 1909546776.
+[DEBUG][21-03-02][com.yuan.dao.BlogMapper.queryBlogIF]==>  Preparing: select * from mybatis.blog where title = ? 
+[DEBUG][21-03-02][com.yuan.dao.BlogMapper.queryBlogIF]==> Parameters: Java(String)
+[DEBUG][21-03-02][com.yuan.dao.BlogMapper.queryBlogIF]<==      Total: 1
+[DEBUG][21-03-02][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@71d15f18]
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]Returned connection 1909546776 to pool.
+[DEBUG][21-03-02][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-03-02][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VFS
+[DEBUG][21-03-02][org.apache.ibatis.io.JBoss6VFS]JBoss 6 VFS API is not available in this environment.
+[DEBUG][21-03-02][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VirtualFile
+[DEBUG][21-03-02][org.apache.ibatis.io.VFS]VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+[DEBUG][21-03-02][org.apache.ibatis.io.VFS]Using VFS adapter org.apache.ibatis.io.DefaultVFS
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Reader entry: Blog.class
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Listing file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo/Blog.class
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo/Blog.class
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   4 v
+[DEBUG][21-03-02][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.yuan.pojo.Blog matches criteria [is assignable to Object]
+[DEBUG][21-03-02][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 736778932.
+[DEBUG][21-03-02][com.yuan.dao.BlogMapper.queryBlogIF]==>  Preparing: select * from mybatis.blog WHERE title = ? and author = ? 
+[DEBUG][21-03-02][com.yuan.dao.BlogMapper.queryBlogIF]==> Parameters: Java(String), 狂神说(String)
+[DEBUG][21-03-02][com.yuan.dao.BlogMapper.queryBlogIF]<==      Total: 1
+[DEBUG][21-03-02][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@2bea5ab4]
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]Returned connection 736778932 to pool.
+[DEBUG][21-03-02][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-03-02][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VFS
+[DEBUG][21-03-02][org.apache.ibatis.io.JBoss6VFS]JBoss 6 VFS API is not available in this environment.
+[DEBUG][21-03-02][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VirtualFile
+[DEBUG][21-03-02][org.apache.ibatis.io.VFS]VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+[DEBUG][21-03-02][org.apache.ibatis.io.VFS]Using VFS adapter org.apache.ibatis.io.DefaultVFS
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Reader entry: Blog.class
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Listing file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo/Blog.class
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo/Blog.class
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   4 v
+[DEBUG][21-03-02][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.yuan.pojo.Blog matches criteria [is assignable to Object]
+[DEBUG][21-03-02][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 1392906938.
+[DEBUG][21-03-02][com.yuan.dao.BlogMapper.queryBlogChoose]==>  Preparing: select * from mybatis.blog WHERE views = ? 
+[DEBUG][21-03-02][com.yuan.dao.BlogMapper.queryBlogChoose]==> Parameters: null
+[DEBUG][21-03-02][com.yuan.dao.BlogMapper.queryBlogChoose]<==      Total: 0
+[DEBUG][21-03-02][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@530612ba]
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]Returned connection 1392906938 to pool.
+[DEBUG][21-03-02][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-03-02][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VFS
+[DEBUG][21-03-02][org.apache.ibatis.io.JBoss6VFS]JBoss 6 VFS API is not available in this environment.
+[DEBUG][21-03-02][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VirtualFile
+[DEBUG][21-03-02][org.apache.ibatis.io.VFS]VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+[DEBUG][21-03-02][org.apache.ibatis.io.VFS]Using VFS adapter org.apache.ibatis.io.DefaultVFS
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Reader entry: Blog.class
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Listing file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo/Blog.class
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo/Blog.class
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   4 v
+[DEBUG][21-03-02][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.yuan.pojo.Blog matches criteria [is assignable to Object]
+[DEBUG][21-03-02][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 1392906938.
+[DEBUG][21-03-02][com.yuan.dao.BlogMapper.queryBlogChoose]==>  Preparing: select * from mybatis.blog WHERE views = ? 
+[DEBUG][21-03-02][com.yuan.dao.BlogMapper.queryBlogChoose]==> Parameters: 9999(Integer)
+[DEBUG][21-03-02][com.yuan.dao.BlogMapper.queryBlogChoose]<==      Total: 3
+[DEBUG][21-03-02][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@530612ba]
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]Returned connection 1392906938 to pool.
+[DEBUG][21-03-02][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-03-02][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VFS
+[DEBUG][21-03-02][org.apache.ibatis.io.JBoss6VFS]JBoss 6 VFS API is not available in this environment.
+[DEBUG][21-03-02][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VirtualFile
+[DEBUG][21-03-02][org.apache.ibatis.io.VFS]VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+[DEBUG][21-03-02][org.apache.ibatis.io.VFS]Using VFS adapter org.apache.ibatis.io.DefaultVFS
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Reader entry: Blog.class
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Listing file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo/Blog.class
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo/Blog.class
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   4 v
+[DEBUG][21-03-02][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.yuan.pojo.Blog matches criteria [is assignable to Object]
+[DEBUG][21-03-02][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 1392906938.
+[DEBUG][21-03-02][com.yuan.dao.BlogMapper.queryBlogChoose]==>  Preparing: select * from mybatis.blog WHERE author=? 
+[DEBUG][21-03-02][com.yuan.dao.BlogMapper.queryBlogChoose]==> Parameters: 狂神说(String)
+[DEBUG][21-03-02][com.yuan.dao.BlogMapper.queryBlogChoose]<==      Total: 4
+[DEBUG][21-03-02][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@530612ba]
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]Returned connection 1392906938 to pool.
+[DEBUG][21-03-02][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-03-02][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VFS
+[DEBUG][21-03-02][org.apache.ibatis.io.JBoss6VFS]JBoss 6 VFS API is not available in this environment.
+[DEBUG][21-03-02][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VirtualFile
+[DEBUG][21-03-02][org.apache.ibatis.io.VFS]VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+[DEBUG][21-03-02][org.apache.ibatis.io.VFS]Using VFS adapter org.apache.ibatis.io.DefaultVFS
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Reader entry: Blog.class
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Listing file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo/Blog.class
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo/Blog.class
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   4 v
+[DEBUG][21-03-02][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.yuan.pojo.Blog matches criteria [is assignable to Object]
+[DEBUG][21-03-02][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 770911223.
+[DEBUG][21-03-02][com.yuan.dao.BlogMapper.queryBlogChoose]==>  Preparing: select * from mybatis.blog WHERE title=? 
+[DEBUG][21-03-02][com.yuan.dao.BlogMapper.queryBlogChoose]==> Parameters: Java(String)
+[DEBUG][21-03-02][com.yuan.dao.BlogMapper.queryBlogChoose]<==      Total: 1
+[DEBUG][21-03-02][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@2df32bf7]
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]Returned connection 770911223 to pool.
+[DEBUG][21-03-02][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-03-02][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VFS
+[DEBUG][21-03-02][org.apache.ibatis.io.JBoss6VFS]JBoss 6 VFS API is not available in this environment.
+[DEBUG][21-03-02][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VirtualFile
+[DEBUG][21-03-02][org.apache.ibatis.io.VFS]VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+[DEBUG][21-03-02][org.apache.ibatis.io.VFS]Using VFS adapter org.apache.ibatis.io.DefaultVFS
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Reader entry: Blog.class
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Listing file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo/Blog.class
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo/Blog.class
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   4 v
+[DEBUG][21-03-02][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.yuan.pojo.Blog matches criteria [is assignable to Object]
+[DEBUG][21-03-02][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 770911223.
+[DEBUG][21-03-02][com.yuan.dao.BlogMapper.queryBlogChoose]==>  Preparing: select * from mybatis.blog WHERE title=? 
+[DEBUG][21-03-02][com.yuan.dao.BlogMapper.queryBlogChoose]==> Parameters: Java(String)
+[DEBUG][21-03-02][com.yuan.dao.BlogMapper.queryBlogChoose]<==      Total: 1
+[DEBUG][21-03-02][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@2df32bf7]
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]Returned connection 770911223 to pool.
+[DEBUG][21-03-02][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-03-02][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VFS
+[DEBUG][21-03-02][org.apache.ibatis.io.JBoss6VFS]JBoss 6 VFS API is not available in this environment.
+[DEBUG][21-03-02][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VirtualFile
+[DEBUG][21-03-02][org.apache.ibatis.io.VFS]VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+[DEBUG][21-03-02][org.apache.ibatis.io.VFS]Using VFS adapter org.apache.ibatis.io.DefaultVFS
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Reader entry: Blog.class
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Listing file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo/Blog.class
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo/Blog.class
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   4 v
+[DEBUG][21-03-02][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.yuan.pojo.Blog matches criteria [is assignable to Object]
+[DEBUG][21-03-02][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 770911223.
+[DEBUG][21-03-02][com.yuan.dao.BlogMapper.queryBlogChoose]==>  Preparing: select * from mybatis.blog WHERE title=? 
+[DEBUG][21-03-02][com.yuan.dao.BlogMapper.queryBlogChoose]==> Parameters: Java(String)
+[DEBUG][21-03-02][com.yuan.dao.BlogMapper.queryBlogChoose]<==      Total: 1
+[DEBUG][21-03-02][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@2df32bf7]
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]Returned connection 770911223 to pool.
+[DEBUG][21-03-02][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-03-02][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VFS
+[DEBUG][21-03-02][org.apache.ibatis.io.JBoss6VFS]JBoss 6 VFS API is not available in this environment.
+[DEBUG][21-03-02][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VirtualFile
+[DEBUG][21-03-02][org.apache.ibatis.io.VFS]VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+[DEBUG][21-03-02][org.apache.ibatis.io.VFS]Using VFS adapter org.apache.ibatis.io.DefaultVFS
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Reader entry: Blog.class
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Listing file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo/Blog.class
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo/Blog.class
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   4 v
+[DEBUG][21-03-02][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.yuan.pojo.Blog matches criteria [is assignable to Object]
+[DEBUG][21-03-02][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 1822383117.
+[DEBUG][21-03-02][com.yuan.dao.BlogMapper.updateBlog]==>  Preparing: update mybatis.blog SET title = ? author = ? where id = ? 
+[DEBUG][21-03-02][com.yuan.dao.BlogMapper.updateBlog]==> Parameters: c(String), 狂神说2(String), e79fd5cf803544989ce31a7ac3b4eecb(String)
+[DEBUG][21-03-02][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-03-02][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VFS
+[DEBUG][21-03-02][org.apache.ibatis.io.JBoss6VFS]JBoss 6 VFS API is not available in this environment.
+[DEBUG][21-03-02][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VirtualFile
+[DEBUG][21-03-02][org.apache.ibatis.io.VFS]VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+[DEBUG][21-03-02][org.apache.ibatis.io.VFS]Using VFS adapter org.apache.ibatis.io.DefaultVFS
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Reader entry: Blog.class
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Listing file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo/Blog.class
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo/Blog.class
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   4 v
+[DEBUG][21-03-02][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.yuan.pojo.Blog matches criteria [is assignable to Object]
+[DEBUG][21-03-02][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 1822383117.
+[DEBUG][21-03-02][com.yuan.dao.BlogMapper.updateBlog]==>  Preparing: update mybatis.blog SET title = ?, author = ? where id = ? 
+[DEBUG][21-03-02][com.yuan.dao.BlogMapper.updateBlog]==> Parameters: c(String), 狂神说2(String), e79fd5cf803544989ce31a7ac3b4eecb(String)
+[DEBUG][21-03-02][com.yuan.dao.BlogMapper.updateBlog]<==    Updates: 1
+[DEBUG][21-03-02][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@6c9f5c0d]
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]Returned connection 1822383117 to pool.
+[DEBUG][21-03-02][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-03-02][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VFS
+[DEBUG][21-03-02][org.apache.ibatis.io.JBoss6VFS]JBoss 6 VFS API is not available in this environment.
+[DEBUG][21-03-02][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VirtualFile
+[DEBUG][21-03-02][org.apache.ibatis.io.VFS]VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+[DEBUG][21-03-02][org.apache.ibatis.io.VFS]Using VFS adapter org.apache.ibatis.io.DefaultVFS
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Reader entry: Blog.class
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Listing file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo/Blog.class
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo/Blog.class
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   4 v
+[DEBUG][21-03-02][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.yuan.pojo.Blog matches criteria [is assignable to Object]
+[DEBUG][21-03-02][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 233021551.
+[DEBUG][21-03-02][com.yuan.dao.BlogMapper.updateBlog]==>  Preparing: update mybatis.blog SET author = ? where id = ? 
+[DEBUG][21-03-02][com.yuan.dao.BlogMapper.updateBlog]==> Parameters: 狂神说2(String), e79fd5cf803544989ce31a7ac3b4eecb(String)
+[DEBUG][21-03-02][com.yuan.dao.BlogMapper.updateBlog]<==    Updates: 1
+[DEBUG][21-03-02][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@de3a06f]
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]Returned connection 233021551 to pool.
+[DEBUG][21-03-02][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-03-02][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VFS
+[DEBUG][21-03-02][org.apache.ibatis.io.JBoss6VFS]JBoss 6 VFS API is not available in this environment.
+[DEBUG][21-03-02][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VirtualFile
+[DEBUG][21-03-02][org.apache.ibatis.io.VFS]VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+[DEBUG][21-03-02][org.apache.ibatis.io.VFS]Using VFS adapter org.apache.ibatis.io.DefaultVFS
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Reader entry: Blog.class
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Listing file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo/Blog.class
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo/Blog.class
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   4 v
+[DEBUG][21-03-02][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.yuan.pojo.Blog matches criteria [is assignable to Object]
+[DEBUG][21-03-02][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 1822383117.
+[DEBUG][21-03-02][com.yuan.dao.BlogMapper.updateBlog]==>  Preparing: update mybatis.blog SET title = ?, author = ? where id = ? 
+[DEBUG][21-03-02][com.yuan.dao.BlogMapper.updateBlog]==> Parameters: c(String), 狂神说2(String), e79fd5cf803544989ce31a7ac3b4eecb(String)
+[DEBUG][21-03-02][com.yuan.dao.BlogMapper.updateBlog]<==    Updates: 1
+[DEBUG][21-03-02][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@6c9f5c0d]
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]Returned connection 1822383117 to pool.
+[DEBUG][21-03-02][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-03-02][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VFS
+[DEBUG][21-03-02][org.apache.ibatis.io.JBoss6VFS]JBoss 6 VFS API is not available in this environment.
+[DEBUG][21-03-02][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VirtualFile
+[DEBUG][21-03-02][org.apache.ibatis.io.VFS]VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+[DEBUG][21-03-02][org.apache.ibatis.io.VFS]Using VFS adapter org.apache.ibatis.io.DefaultVFS
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Reader entry: Blog.class
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Listing file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo/Blog.class
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo/Blog.class
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   4 v
+[DEBUG][21-03-02][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.yuan.pojo.Blog matches criteria [is assignable to Object]
+[DEBUG][21-03-02][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-03-02][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VFS
+[DEBUG][21-03-02][org.apache.ibatis.io.JBoss6VFS]JBoss 6 VFS API is not available in this environment.
+[DEBUG][21-03-02][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VirtualFile
+[DEBUG][21-03-02][org.apache.ibatis.io.VFS]VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+[DEBUG][21-03-02][org.apache.ibatis.io.VFS]Using VFS adapter org.apache.ibatis.io.DefaultVFS
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Reader entry: Blog.class
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Listing file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo/Blog.class
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo/Blog.class
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   4 v
+[DEBUG][21-03-02][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.yuan.pojo.Blog matches criteria [is assignable to Object]
+[DEBUG][21-03-02][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 1991313236.
+[DEBUG][21-03-02][com.yuan.dao.BlogMapper.queryBlogForeach]==>  Preparing: select * from mybatis.blog 
+[DEBUG][21-03-02][com.yuan.dao.BlogMapper.queryBlogForeach]==> Parameters: 
+[DEBUG][21-03-02][com.yuan.dao.BlogMapper.queryBlogForeach]<==      Total: 4
+[DEBUG][21-03-02][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@76b10754]
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]Returned connection 1991313236 to pool.
+[DEBUG][21-03-02][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-03-02][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VFS
+[DEBUG][21-03-02][org.apache.ibatis.io.JBoss6VFS]JBoss 6 VFS API is not available in this environment.
+[DEBUG][21-03-02][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VirtualFile
+[DEBUG][21-03-02][org.apache.ibatis.io.VFS]VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+[DEBUG][21-03-02][org.apache.ibatis.io.VFS]Using VFS adapter org.apache.ibatis.io.DefaultVFS
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Reader entry: Blog.class
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Listing file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo/Blog.class
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo/Blog.class
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   4 v
+[DEBUG][21-03-02][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.yuan.pojo.Blog matches criteria [is assignable to Object]
+[DEBUG][21-03-02][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 1032000752.
+[DEBUG][21-03-02][com.yuan.dao.BlogMapper.queryBlogForeach]==>  Preparing: select * from mybatis.blog WHERE and( id = ? ) 
+[DEBUG][21-03-02][com.yuan.dao.BlogMapper.queryBlogForeach]==> Parameters: 1(Integer)
+[DEBUG][21-03-02][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-03-02][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VFS
+[DEBUG][21-03-02][org.apache.ibatis.io.JBoss6VFS]JBoss 6 VFS API is not available in this environment.
+[DEBUG][21-03-02][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VirtualFile
+[DEBUG][21-03-02][org.apache.ibatis.io.VFS]VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+[DEBUG][21-03-02][org.apache.ibatis.io.VFS]Using VFS adapter org.apache.ibatis.io.DefaultVFS
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Reader entry: Blog.class
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Listing file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo/Blog.class
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo/Blog.class
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   4 v
+[DEBUG][21-03-02][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.yuan.pojo.Blog matches criteria [is assignable to Object]
+[DEBUG][21-03-02][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 1032000752.
+[DEBUG][21-03-02][com.yuan.dao.BlogMapper.queryBlogForeach]==>  Preparing: select * from mybatis.blog WHERE and( id = ? ) 
+[DEBUG][21-03-02][com.yuan.dao.BlogMapper.queryBlogForeach]==> Parameters: 1(Integer)
+[DEBUG][21-03-02][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-03-02][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VFS
+[DEBUG][21-03-02][org.apache.ibatis.io.JBoss6VFS]JBoss 6 VFS API is not available in this environment.
+[DEBUG][21-03-02][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VirtualFile
+[DEBUG][21-03-02][org.apache.ibatis.io.VFS]VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+[DEBUG][21-03-02][org.apache.ibatis.io.VFS]Using VFS adapter org.apache.ibatis.io.DefaultVFS
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Reader entry: Blog.class
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Listing file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo/Blog.class
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo/Blog.class
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   4 v
+[DEBUG][21-03-02][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.yuan.pojo.Blog matches criteria [is assignable to Object]
+[DEBUG][21-03-02][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 1991313236.
+[DEBUG][21-03-02][com.yuan.dao.BlogMapper.queryBlogForeach]==>  Preparing: select * from mybatis.blog 
+[DEBUG][21-03-02][com.yuan.dao.BlogMapper.queryBlogForeach]==> Parameters: 
+[DEBUG][21-03-02][com.yuan.dao.BlogMapper.queryBlogForeach]<==      Total: 4
+[DEBUG][21-03-02][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@76b10754]
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]Returned connection 1991313236 to pool.
+[DEBUG][21-03-02][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-03-02][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VFS
+[DEBUG][21-03-02][org.apache.ibatis.io.JBoss6VFS]JBoss 6 VFS API is not available in this environment.
+[DEBUG][21-03-02][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VirtualFile
+[DEBUG][21-03-02][org.apache.ibatis.io.VFS]VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+[DEBUG][21-03-02][org.apache.ibatis.io.VFS]Using VFS adapter org.apache.ibatis.io.DefaultVFS
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Reader entry: Blog.class
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Listing file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo/Blog.class
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo/Blog.class
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   4 v
+[DEBUG][21-03-02][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.yuan.pojo.Blog matches criteria [is assignable to Object]
+[DEBUG][21-03-02][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 1032000752.
+[DEBUG][21-03-02][com.yuan.dao.BlogMapper.queryBlogForeach]==>  Preparing: select * from mybatis.blog WHERE and( id = ? ) 
+[DEBUG][21-03-02][com.yuan.dao.BlogMapper.queryBlogForeach]==> Parameters: 1(Integer)
+[DEBUG][21-03-02][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-03-02][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VFS
+[DEBUG][21-03-02][org.apache.ibatis.io.JBoss6VFS]JBoss 6 VFS API is not available in this environment.
+[DEBUG][21-03-02][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VirtualFile
+[DEBUG][21-03-02][org.apache.ibatis.io.VFS]VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+[DEBUG][21-03-02][org.apache.ibatis.io.VFS]Using VFS adapter org.apache.ibatis.io.DefaultVFS
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Reader entry: Blog.class
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Listing file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo/Blog.class
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo/Blog.class
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   4 v
+[DEBUG][21-03-02][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.yuan.pojo.Blog matches criteria [is assignable to Object]
+[DEBUG][21-03-02][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 1032000752.
+[DEBUG][21-03-02][com.yuan.dao.BlogMapper.queryBlogForeach]==>  Preparing: select * from mybatis.blog WHERE ( id = ? ) 
+[DEBUG][21-03-02][com.yuan.dao.BlogMapper.queryBlogForeach]==> Parameters: 1(Integer)
+[DEBUG][21-03-02][com.yuan.dao.BlogMapper.queryBlogForeach]<==      Total: 1
+[DEBUG][21-03-02][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@3d8314f0]
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]Returned connection 1032000752 to pool.
+[DEBUG][21-03-02][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-03-02][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VFS
+[DEBUG][21-03-02][org.apache.ibatis.io.JBoss6VFS]JBoss 6 VFS API is not available in this environment.
+[DEBUG][21-03-02][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VirtualFile
+[DEBUG][21-03-02][org.apache.ibatis.io.VFS]VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+[DEBUG][21-03-02][org.apache.ibatis.io.VFS]Using VFS adapter org.apache.ibatis.io.DefaultVFS
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Reader entry: Blog.class
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Listing file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo/Blog.class
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo/Blog.class
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   4 v
+[DEBUG][21-03-02][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.yuan.pojo.Blog matches criteria [is assignable to Object]
+[DEBUG][21-03-02][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 1032000752.
+[DEBUG][21-03-02][com.yuan.dao.BlogMapper.queryBlogForeach]==>  Preparing: select * from mybatis.blog WHERE ( id = ? or id = ? ) 
+[DEBUG][21-03-02][com.yuan.dao.BlogMapper.queryBlogForeach]==> Parameters: 1(Integer), 2(Integer)
+[DEBUG][21-03-02][com.yuan.dao.BlogMapper.queryBlogForeach]<==      Total: 2
+[DEBUG][21-03-02][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@3d8314f0]
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]Returned connection 1032000752 to pool.
+[DEBUG][21-03-02][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-03-02][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VFS
+[DEBUG][21-03-02][org.apache.ibatis.io.JBoss6VFS]JBoss 6 VFS API is not available in this environment.
+[DEBUG][21-03-02][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VirtualFile
+[DEBUG][21-03-02][org.apache.ibatis.io.VFS]VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+[DEBUG][21-03-02][org.apache.ibatis.io.VFS]Using VFS adapter org.apache.ibatis.io.DefaultVFS
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Reader entry: Blog.class
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Listing file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo/Blog.class
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo/Blog.class
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   4 v
+[DEBUG][21-03-02][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.yuan.pojo.Blog matches criteria [is assignable to Object]
+[DEBUG][21-03-02][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 1032000752.
+[DEBUG][21-03-02][com.yuan.dao.BlogMapper.queryBlogForeach]==>  Preparing: select * from mybatis.blog WHERE ( id = ? or id = ? or id = ? ) 
+[DEBUG][21-03-02][com.yuan.dao.BlogMapper.queryBlogForeach]==> Parameters: 1(Integer), 2(Integer), 200(Integer)
+[DEBUG][21-03-02][com.yuan.dao.BlogMapper.queryBlogForeach]<==      Total: 2
+[DEBUG][21-03-02][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@3d8314f0]
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]Returned connection 1032000752 to pool.
+[DEBUG][21-03-02][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-03-02][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VFS
+[DEBUG][21-03-02][org.apache.ibatis.io.JBoss6VFS]JBoss 6 VFS API is not available in this environment.
+[DEBUG][21-03-02][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VirtualFile
+[DEBUG][21-03-02][org.apache.ibatis.io.VFS]VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+[DEBUG][21-03-02][org.apache.ibatis.io.VFS]Using VFS adapter org.apache.ibatis.io.DefaultVFS
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Reader entry: Blog.class
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Listing file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo/Blog.class
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/E:/javademo/mybatis/mybatis-07/target/classes/com/yuan/pojo/Blog.class
+[DEBUG][21-03-02][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   4 v
+[DEBUG][21-03-02][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.yuan.pojo.Blog matches criteria [is assignable to Object]
+[DEBUG][21-03-02][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-02][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 1032000752.
+[DEBUG][21-03-02][com.yuan.dao.BlogMapper.queryBlogForeach]==>  Preparing: select * from mybatis.blog WHERE ( id = ? or id = ? ) 
+[DEBUG][21-03-02][com.yuan.dao.BlogMapper.queryBlogForeach]==> Parameters: 1(Integer), 2(Integer)
+[DEBUG][21-03-02][com.yuan.dao.BlogMapper.queryBlogForeach]<==      Total: 2
+[DEBUG][21-03-02][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@3d8314f0]
+[DEBUG][21-03-02][org.apache.ibatis.datasource.pooled.PooledDataSource]Returned connection 1032000752 to pool.
